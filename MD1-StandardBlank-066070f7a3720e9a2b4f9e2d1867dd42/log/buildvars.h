@@ -42,7 +42,7 @@
 #define CLI_CommitDate          "2016-08-18 22:49:51 -0700"
 #define CLI_CommitAuthor        "Jacob Alexander <haata@kiibohd.com>"
 #define CLI_Modules             "Scan(MD1) Macro(PartialMap) Output(pjrcUSB) Debug(full)"
-#define CLI_BuildDate           "2016-10-01 07:28:48 +0000"
+#define CLI_BuildDate           "2016-10-03 14:05:48 +0000"
 #define CLI_BuildOS             "Linux-4.1.5-x86_64-linode61"
 #define CLI_Arch                "arm"
 #define CLI_Chip                "mk20dx128vlf5"
